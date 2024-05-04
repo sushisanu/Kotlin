@@ -18,3 +18,4 @@ get local android-material-design at  https://github.com/sushisanu/6030409350-an
    I would like to improve the story and some animetion easier to understand it.
 
 thanks!
+## FOR LABs I DID NOT FOR FINAL PROJECT ####
