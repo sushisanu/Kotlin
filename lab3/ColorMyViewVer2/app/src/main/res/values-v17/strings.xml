@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="howTo">How to Play</string>
+    <string name="button_red">RED</string>
+    <string name="yellow_button">YELLOW</string>
+    <string name="green_button">GREEN</string>
+</resources>

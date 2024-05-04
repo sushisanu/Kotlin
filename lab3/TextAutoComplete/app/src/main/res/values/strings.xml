@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TextAutoComplete</string>
+
+    <string name="country_hint">Country</string>
+    <string name="firstName_hint">firstName</string>
+    <string name="lastName_hint">LastName</string>
+    <string-array name="countries_array">
+        <item>Angola</item>
+        <item>Thailand</item>
+        <item>Japan</item>
+        <item>Singapore</item>
+        <item>China</item>
+        <item>Korea</item>
+        <item>America</item>
+    </string-array>
+</resources>

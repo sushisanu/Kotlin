@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">แอพแรกของฉัน</string>
+    <string name="edittext">ใส่ข้อความ</string>
+    <string name="button">ส่ง</string>
+</resources>
